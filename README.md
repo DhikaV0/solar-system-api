@@ -8,7 +8,7 @@ This API was created as a personal project for learning, visualization, and inte
 All data is available in a single JSON file:
 
 ```
-https://dhikav0.github.io/solar-system-api/solar-system.json
+link will out soon :)
 ```
 
 ## -How to Use
